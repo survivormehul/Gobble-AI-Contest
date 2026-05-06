@@ -11,6 +11,7 @@ The objective of this challenge is to predict pedestrian crossing intent and fut
 This solution implements a machine learning system to predict pedestrian crossing behavior, optimizing for both accuracy and low-latency inference within a restricted Docker container size.
 
 **Files included:**
+- `Model_Evaluation_Report.md`: In-depth performance metrics, hyperparameter configs, and error analysis
 - `predict.py`: Inference script
 - `train_advanced.py`: Advanced training script
 - `model.pkl`: Serialized trained model
@@ -25,6 +26,7 @@ The objective of this challenge is to build a high-performance machine learning 
 The solution utilizes an advanced XGBoost model with target encoding and categorical features, optimizing for strict latency constraints and low prediction error (MAE).
 
 **Files included:**
+- `Model_Evaluation_Report.md`: In-depth performance metrics, hyperparameter configs, and error analysis
 - `predict.py`: Inference script
 - `train_advanced.py`: Model training script
 - `model.pkl`: Serialized trained model
