@@ -38,4 +38,4 @@ Each challenge directory contains its own `Readme.md` and `Dockerfile` detailing
 Please refer to the respective directories for more detailed instructions on running inference or re-training the models.
 
 ## Contact
-- **LinkedIn:** [Mehul](https://www.linkedin.com/in/survivor-mehul/)
+- **LinkedIn:** [Mehul Bansal](https://www.linkedin.com/in/survivor-mehul/)
